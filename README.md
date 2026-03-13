@@ -28,7 +28,7 @@ Upload Document
                               │
                Render matching PDF page images
                               │
-                    VLM answers from images context
+                    VLM generates answer from image(s) context
 ```
 
 ---
