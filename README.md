@@ -92,7 +92,7 @@ The app (titled **ZeroVec AI**) will:
 
 ## Demo
 
-The `data/` folder ships with three arXiv papers ready to query:
+The `data/` folder ships with an arXiv paper:
 
 | File | Paper |
 |------|-------|
