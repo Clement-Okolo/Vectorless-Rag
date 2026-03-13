@@ -1,4 +1,4 @@
-# Reasoning-Based, Vectorless RAG with PageIndex and Vision-Language Models
+# Reasoning-Based, Vectorless RAG with PageIndex and VLM
 
 A Retrieval-Augmented Generation (RAG) pipeline that retrieves without vector embeddings. Instead of chunking documents into text passages and indexing them in a vector store, this approach uses [PageIndex](https://pageindex.ai) to build a **hierarchical tree structure** of PDF documents and a **Vision-Language Model (VLM)** to reason over that tree and answer questions directly from PDF page images.
 
