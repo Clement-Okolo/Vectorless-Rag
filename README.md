@@ -41,7 +41,7 @@ vectorless-rag/
 ├── streamlit_app.py       # Streamlit UI for interactive demo (ZeroVec AI)
 ├── credentials.py         # API keys (do not commit to version control)
 ├── requirements.txt       # Python dependencies
-├── data/                  # PDFs to query (pre-loaded or uploaded via the Streamlit app)
+├── data/                  # PDFs to query (pre-load or upload via the Streamlit app)
 └── pdf_images/            # Rendered PDF page images (auto-generated)
 ```
 
