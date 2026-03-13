@@ -123,6 +123,13 @@ This pipeline is well-suited for any scenario where document layout, visuals, or
 
 ---
 
+## 🎥 Video Demonstration
+Watch a quick demonstration of the ZeroVec AI app in action:
+
+[[ZeroVec AI Demo]](https://youtu.be/GjnQMlqzIeY)
+
+---
+
 ## Dependencies
 
 | Package | Purpose |
@@ -139,3 +146,5 @@ This pipeline is well-suited for any scenario where document layout, visuals, or
 - **No vector store** — retrieval is done by VLM reasoning over structured summaries, not cosine similarity over embeddings.
 - **Visual context** — the VLM reads rendered page images rather than extracted text, preserving layout, figures, and tables.
 - **Hierarchical tree** — PageIndex produces a document tree that allows targeted retrieval at the section/subsection level, reducing noise.
+
+
