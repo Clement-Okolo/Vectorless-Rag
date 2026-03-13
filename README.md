@@ -19,7 +19,7 @@ This eliminates the need for text chunking, embedding models, and vector databas
 ## Architecture
 
 ```text
-PDF
+Upload Document
  └─► PageIndex API ──► Hierarchical Tree (titles + summaries)
                               │
                     VLM reasons over tree
